@@ -2,6 +2,6 @@ import React from 'react'
 
 export default function fourohfour() {
   return (
-    <div>404 page not found</div>
+    <div>Welcome to the Portfolio of Sidney Basa</div>
   )
 }

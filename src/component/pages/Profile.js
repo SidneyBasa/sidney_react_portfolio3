@@ -6,7 +6,7 @@ import notetaker from '../../images/noteTaker.jpg'
 import ecom from '../../images/eCommerceServer.jpg'
 import SQLinquirer from '../../images/SQLInquirer.jpg'
 import passgen from '../../images/passgen.jpg'
-import marketing from '../../images/marketing.jpg'
+import securityMap from '../../images/SecurityMap.jpg'
 
 const project1= {
   name: 'Techblog Project',
@@ -50,10 +50,10 @@ const project5= {
 };
 
 const project6= {
-  name: 'marketing website',
+  name: 'Security Map Project',
   description: 'A website created with html css and JavaScript',
-  image: marketing,
-  visit: 'https://github.com/SidneyBasa/web-marketing-office2',
+  image: securityMap,
+  visit: 'https://securitymap.netlify.app',
   id: 6,
 };
 
