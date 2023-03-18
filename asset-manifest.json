@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/sidney_react_portfolio3/static/css/main.45130ba2.css",
-    "main.js": "/sidney_react_portfolio3/static/js/main.53b7e87a.js",
-    "static/media/marketing.jpg": "/sidney_react_portfolio3/static/media/marketing.b38b71238c263545a067.jpg",
+    "main.js": "/sidney_react_portfolio3/static/js/main.4dc0b966.js",
     "static/media/SQLInquirer.jpg": "/sidney_react_portfolio3/static/media/SQLInquirer.50bf16bca5019ebe187d.jpg",
     "static/media/eCommerceServer.jpg": "/sidney_react_portfolio3/static/media/eCommerceServer.8d3cf21315cc07fa7656.jpg",
     "static/media/SidneyBasa.jpg": "/sidney_react_portfolio3/static/media/SidneyBasa.fe83c5ee02b7fd6be80a.jpg",
+    "static/media/SecurityMap.jpg": "/sidney_react_portfolio3/static/media/SecurityMap.91b682c5e2971a0a4f6f.jpg",
     "static/media/Resume2023.jpg": "/sidney_react_portfolio3/static/media/Resume2023.9f6ba0febd5268870ba1.jpg",
     "static/media/techblog.jpg": "/sidney_react_portfolio3/static/media/techblog.b96c0b87f4682ebf19f9.jpg",
     "static/media/passgen.jpg": "/sidney_react_portfolio3/static/media/passgen.ac7e3b5ba51111a5774e.jpg",
     "static/media/noteTaker.jpg": "/sidney_react_portfolio3/static/media/noteTaker.79729a9ea265f9cdadce.jpg",
     "index.html": "/sidney_react_portfolio3/index.html",
     "main.45130ba2.css.map": "/sidney_react_portfolio3/static/css/main.45130ba2.css.map",
-    "main.53b7e87a.js.map": "/sidney_react_portfolio3/static/js/main.53b7e87a.js.map"
+    "main.4dc0b966.js.map": "/sidney_react_portfolio3/static/js/main.4dc0b966.js.map"
   },
   "entrypoints": [
     "static/css/main.45130ba2.css",
-    "static/js/main.53b7e87a.js"
+    "static/js/main.4dc0b966.js"
   ]
 }
